@@ -55,11 +55,23 @@ p{
 
 .password{
     text-align: center;
-    margin-top: 80px;
+    margin-top: 70px;
     width: 180px;
     height: 30px;
     font-size: 20px;
     padding: 6px 10px;
     background:#273549;
     color: white;
+
 }
+.footer__copyright {
+    margin-top: 90px;
+    font-size: 1.4rem;
+    color: #aaa;
+    text-align: center;
+   
+  }
+  a{
+    text-decoration: none;
+    color: #6B7280;
+  }
